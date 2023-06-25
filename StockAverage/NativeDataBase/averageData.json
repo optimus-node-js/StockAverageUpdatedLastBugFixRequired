@@ -1,0 +1,139 @@
+{
+    "averageData": [
+        {
+            "date": "19-06-23",
+            "TotalBidAverage": 6.5,
+            "TotalProfitAverage": 0.04999999999999982,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 6.55,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "19-06-23",
+            "TotalBidAverage": 6.5,
+            "TotalProfitAverage": 0.04999999999999982,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 6.55,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "19-06-23",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "19-06-23",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "19-06-23",
+            "TotalBidAverage": 120.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 111.0,
+            "TotalLossAverage": -9.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-06-23",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-06-23",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-06-23",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-06-23",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-06-23",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-06-23",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-06-23",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-06-23",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "23-06-23",
+            "TotalBidAverage": 11.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 11.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "24-06-23",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        }
+    ]
+}

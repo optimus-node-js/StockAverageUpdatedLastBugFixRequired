@@ -1,0 +1,179 @@
+{
+    "todaySumData": [
+        {
+            "date": "19-06-23",
+            "totalBidPriceToday": 132.0,
+            "totalValueToday": 124.0,
+            "totalProfitToday": 1.0,
+            "totalLossToday": -9.0,
+            "totalNumberOfTrades": 2,
+            "IC_Status": "Active",
+            "dateOfTrade": "19-06-23"
+        },
+        {
+            "date": "19-06-23",
+            "totalBidPriceToday": 132.0,
+            "totalValueToday": 124.0,
+            "totalProfitToday": 1.0,
+            "totalLossToday": -9.0,
+            "totalNumberOfTrades": 2,
+            "IC_Status": "Active",
+            "dateOfTrade": "19-06-23"
+        },
+        {
+            "date": "19-06-23",
+            "totalBidPriceToday": 120.0,
+            "totalValueToday": 111.0,
+            "totalProfitToday": 0,
+            "totalLossToday": -9.0,
+            "totalNumberOfTrades": 1,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-06-23",
+            "totalBidPriceToday": 2.0,
+            "totalValueToday": 2.0,
+            "totalProfitToday": 0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 2,
+            "IC_Status": "Active",
+            "dateOfTrade": "21-06-23"
+        },
+        {
+            "date": "21-06-23",
+            "totalBidPriceToday": 2.0,
+            "totalValueToday": 2.0,
+            "totalProfitToday": 0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 2,
+            "IC_Status": "Active",
+            "dateOfTrade": "21-06-23"
+        },
+        {
+            "date": "21-06-23",
+            "totalBidPriceToday": 2.0,
+            "totalValueToday": 2.0,
+            "totalProfitToday": 0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 2,
+            "IC_Status": "Active",
+            "dateOfTrade": "21-06-23"
+        },
+        {
+            "date": "21-06-23",
+            "totalBidPriceToday": 2.0,
+            "totalValueToday": 2.0,
+            "totalProfitToday": 0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 2,
+            "IC_Status": "Active",
+            "dateOfTrade": "21-06-23"
+        },
+        {
+            "date": "21-06-23",
+            "totalBidPriceToday": 2.0,
+            "totalValueToday": 2.0,
+            "totalProfitToday": 0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 2,
+            "IC_Status": "Active",
+            "dateOfTrade": "21-06-23"
+        },
+        {
+            "date": "21-06-23",
+            "totalBidPriceToday": 2.0,
+            "totalValueToday": 2.0,
+            "totalProfitToday": 0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 2,
+            "IC_Status": "Active",
+            "dateOfTrade": "21-06-23"
+        },
+        {
+            "date": "21-06-23",
+            "totalBidPriceToday": 2.0,
+            "totalValueToday": 2.0,
+            "totalProfitToday": 0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 2,
+            "IC_Status": "Active",
+            "dateOfTrade": "21-06-23"
+        },
+        {
+            "date": "21-06-23",
+            "totalBidPriceToday": 2.0,
+            "totalValueToday": 2.0,
+            "totalProfitToday": 0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 2,
+            "IC_Status": "Active",
+            "dateOfTrade": "21-06-23"
+        },
+        {
+            "date": "21-06-23",
+            "totalBidPriceToday": 2.0,
+            "totalValueToday": 2.0,
+            "totalProfitToday": 0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 2,
+            "IC_Status": "Active",
+            "dateOfTrade": "21-06-23"
+        },
+        {
+            "date": "21-06-23",
+            "totalBidPriceToday": 2.0,
+            "totalValueToday": 2.0,
+            "totalProfitToday": 0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 2,
+            "IC_Status": "Active",
+            "dateOfTrade": "21-06-23"
+        },
+        {
+            "date": "21-06-23",
+            "totalBidPriceToday": 1.0,
+            "totalValueToday": 1.0,
+            "totalProfitToday": 0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 1,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "23-06-23",
+            "totalBidPriceToday": 23.0,
+            "totalValueToday": 24.0,
+            "totalProfitToday": 1.0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 3,
+            "IC_Status": "Active",
+            "dateOfTrade": "23-06-23"
+        },
+        {
+            "date": "23-06-23",
+            "totalBidPriceToday": 11.0,
+            "totalValueToday": 11.0,
+            "totalProfitToday": 0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 1,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "24-06-23",
+            "totalBidPriceToday": 11.0,
+            "totalValueToday": 12.0,
+            "totalProfitToday": 1.0,
+            "totalLossToday": 0,
+            "totalNumberOfTrades": 1,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "24-06-23",
+            "totalBidPriceToday": 1.0,
+            "totalValueToday": 1.0,
+            "totalProfitToday": 0,
+            "totalLossToday": 0.0,
+            "totalNumberOfTrades": 1,
+            "IC_Status": "Active"
+        }
+    ]
+}
