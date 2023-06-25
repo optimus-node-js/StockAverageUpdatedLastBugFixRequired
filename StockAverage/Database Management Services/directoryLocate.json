@@ -1,0 +1,19 @@
+{
+  "Delete All the Collections from the Database": [{"name":  "DACFD_1", "Status":  "Completed"}],
+  "Delete Specific Database": [{"name":  "DSDB_2", "Status":  "Not Completed"}],
+
+  "Delete All Existed Database": [{"name":  "DAED_3", "Status":  "Not Completed"}],
+
+  "Delete All the Data from Each Collection of Specific Database": [{"name":  "DADECSD_4", "Status":  "Not Completed"}],
+  "Delete All the Data from Each Collection of All Database": [{"name":  "DADECAD_5", "Status":  "Not Completed"}],
+
+  "Update Entry of Specific Parameter from Specific Collection of Specific Database": [{"name":  "UESPSCSD_6", "Status":  "Not Completed"}],
+  "Update Entry of Specific Parameter from All Collections of Specific Database to All Database": [{"name":  "UESPACSDAD_7", "Status":  "Not Completed"}],
+
+  "Change all the Parameters Entry of Any Collection of Any Database": [{"name":  "CAPEACAD_8", "Status":  "Not Completed"}],
+
+  "Download all the Data from Internet Database to Locally in JSON Format": [{"name":  "DADIDLJSONF_9", "Status":  "Completed"}],
+  "Upload Specific or all the JSON Data to the Server": [{"name":  "USJSONDS_10", "Status":  "Not Completed"}]
+
+
+}
