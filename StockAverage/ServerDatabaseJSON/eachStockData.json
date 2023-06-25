@@ -1,0 +1,1876 @@
+{
+    "averageData": [
+        {
+            "date": "04-09-22",
+            "TotalBidAverage": 55.0,
+            "TotalProfitAverage": 4.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 59.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "stock_name": "stock_name",
+            "bid_price": "bid_price",
+            "close_price": "close_price",
+            "win": "win",
+            "loss": "loss",
+            "number_of_indicators": "number_of_indicators",
+            "indicator_name": "indicator_name",
+            "tradeDuration": "timeframe",
+            "timeofTrade": "datetime",
+            "dateOfTrade": "datetime",
+            "IC_Status": "IC_Status"
+        },
+        {
+            "date": "04-09-22",
+            "TotalBidAverage": 89.0,
+            "TotalProfitAverage": 12.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 101.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "stock_name": "stock_name",
+            "bid_price": "bid_price",
+            "close_price": "close_price",
+            "win": "win",
+            "loss": "loss",
+            "number_of_indicators": "number_of_indicators",
+            "indicator_name": "indicator_name",
+            "tradeDuration": "timeframe",
+            "timeofTrade": "datetime",
+            "dateOfTrade": "datetime",
+            "IC_Status": "IC_Status"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 2.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 2.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 2.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 0.0,
+            "TotalLossAverage": -1.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 50.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 23.0,
+            "TotalLossAverage": -27.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "17-09-22",
+            "TotalBidAverage": 89.0,
+            "TotalProfitAverage": 11.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 100.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "25-09-22",
+            "TotalBidAverage": 56.0,
+            "TotalProfitAverage": 4.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 60.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "28-09-22",
+            "TotalBidAverage": 89.0,
+            "TotalProfitAverage": 2.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 91.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "30-09-22",
+            "TotalBidAverage": 89.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 90.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-10-22",
+            "TotalBidAverage": 89.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 90.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 4.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 5.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 12.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 24.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-10-22",
+            "TotalBidAverage": 111.0,
+            "TotalProfitAverage": 111.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 222.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-10-22",
+            "TotalBidAverage": 11.0,
+            "TotalProfitAverage": 11.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 22.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 0.0,
+            "TotalLossAverage": -1.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 0.0,
+            "TotalLossAverage": -1.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "17-09-22",
+            "TotalBidAverage": 91.5,
+            "TotalProfitAverage": 453.5,
+            "TotalNumberOfTradeAverage": 1.0,
+            "TotalTradeValuesAverage": 545.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "30-09-22",
+            "TotalBidAverage": 60.0,
+            "TotalProfitAverage": 5.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 65.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-10-22",
+            "TotalBidAverage": 11.0,
+            "TotalProfitAverage": 11.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 22.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1111111.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 22222.0,
+            "TotalLossAverage": -1088889.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 111.0,
+            "TotalProfitAverage": 111.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 222.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 2.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "03-09-22",
+            "TotalBidAverage": 120.0,
+            "TotalProfitAverage": 2.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 122.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-09-22",
+            "TotalBidAverage": 100.0,
+            "TotalProfitAverage": 111.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 211.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-09-22",
+            "TotalBidAverage": 454.0,
+            "TotalProfitAverage": 58.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 512.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "25-09-22",
+            "TotalBidAverage": 89.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 90.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-10-22",
+            "TotalBidAverage": 11111111.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 0.0,
+            "TotalLossAverage": -11111111.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 12.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 24.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-10-22",
+            "TotalBidAverage": 11.0,
+            "TotalProfitAverage": 11.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 22.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 0.0,
+            "TotalLossAverage": -1.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 2.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 2.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 2.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "18-09-22",
+            "TotalBidAverage": 89.0,
+            "TotalProfitAverage": 11.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 100.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "03-09-22",
+            "TotalBidAverage": 89.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 71.0,
+            "TotalLossAverage": -18.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "25-09-22",
+            "TotalBidAverage": 899.0,
+            "TotalProfitAverage": 6.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 905.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "29-09-22",
+            "TotalBidAverage": 56.0,
+            "TotalProfitAverage": 5.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 61.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-10-22",
+            "TotalBidAverage": 111.0,
+            "TotalProfitAverage": 111.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 222.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 12.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 24.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 2.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 2.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 2.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 2.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 50.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 23.0,
+            "TotalLossAverage": -27.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 5.0,
+            "TotalLossAverage": -7.0,
+            "IC_Status": "Active"
+        },
+        {
+            "stock_name": "stock_name",
+            "bid_price": "bid_price",
+            "close_price": "close_price",
+            "win": "win",
+            "loss": "loss",
+            "number_of_indicators": "number_of_indicators",
+            "indicator_name": "indicator_name",
+            "tradeDuration": "timeframe",
+            "timeofTrade": "datetime",
+            "dateOfTrade": "datetime",
+            "IC_Status": "IC_Status"
+        },
+        {
+            "date": "26-09-22",
+            "TotalBidAverage": 89.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 90.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-10-22",
+            "TotalBidAverage": 111.0,
+            "TotalProfitAverage": 111.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 222.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 11.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 12.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-09-22",
+            "TotalBidAverage": 401.0,
+            "TotalProfitAverage": 101.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 502.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "03-09-22",
+            "TotalBidAverage": 56.0,
+            "TotalProfitAverage": 33.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 89.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "17-09-22",
+            "TotalBidAverage": 90.0,
+            "TotalProfitAverage": 5.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 95.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-10-22",
+            "TotalBidAverage": 111.0,
+            "TotalProfitAverage": 111.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 222.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 11.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -1.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "11-09-22",
+            "TotalBidAverage": 56.0,
+            "TotalProfitAverage": 14.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 70.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-09-22",
+            "TotalBidAverage": 434.5,
+            "TotalProfitAverage": 10.0,
+            "TotalNumberOfTradeAverage": 1.0,
+            "TotalTradeValuesAverage": 444.5,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "25-09-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "30-09-22",
+            "TotalBidAverage": 60.0,
+            "TotalProfitAverage": 5.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 65.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 10.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 2.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 11.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 12.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 2.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 1.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "05-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 5.0,
+            "TotalLossAverage": -7.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "09-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "09-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 23.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 24.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 23.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 24.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 10.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 22.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 10.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 22.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 5.0,
+            "TotalLossAverage": -7.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 5.0,
+            "TotalLossAverage": -7.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 20.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 15.0,
+            "TotalLossAverage": -5.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 20.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 15.0,
+            "TotalLossAverage": -5.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 0.0,
+            "TotalLossAverage": -12.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 0.0,
+            "TotalLossAverage": -12.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "13-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 10.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 22.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 10.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 22.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 10.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 22.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 10.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 22.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 55.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 50.0,
+            "TotalLossAverage": -5.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 55.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 50.0,
+            "TotalLossAverage": -5.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 12.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 12.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 0.0,
+            "TotalLossAverage": -12.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 0.0,
+            "TotalLossAverage": -12.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "15-10-22",
+            "TotalBidAverage": 36.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 37.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "15-10-22",
+            "TotalBidAverage": 36.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 37.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "03-09-22",
+            "TotalBidAverage": 120.0,
+            "TotalProfitAverage": 2.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 122.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-09-22",
+            "TotalBidAverage": 55.0,
+            "TotalProfitAverage": 4.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 59.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "04-09-22",
+            "TotalBidAverage": 89.0,
+            "TotalProfitAverage": 12.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 101.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-09-22",
+            "TotalBidAverage": 454.0,
+            "TotalProfitAverage": 58.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 512.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "11-09-22",
+            "TotalBidAverage": 56.0,
+            "TotalProfitAverage": 14.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 70.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "03-09-22",
+            "TotalBidAverage": 56.0,
+            "TotalProfitAverage": 33.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 89.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Inactive"
+        },
+        {
+            "date": "18-08-22",
+            "totalBidPriceToday": 2000.0,
+            "totalValueToday": 3159.0,
+            "totalProfitToday": 1549.0,
+            "totalLossToday": 134.0,
+            "totalNumberOfTrades": 9,
+            "IC_Status": "Inactive"
+        },
+        {
+            "date": "27-08-22",
+            "totalBidPriceToday": 2242.0,
+            "totalValueToday": 3358.0,
+            "totalProfitToday": 1117.0,
+            "totalLossToday": -1.0,
+            "totalNumberOfTrades": 6,
+            "IC_Status": "Inactive"
+        },
+        {
+            "date": "03-09-22",
+            "TotalBidAverage": 120.0,
+            "TotalProfitAverage": 2.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 122.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Inactive"
+        },
+        {
+            "date": "20-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "20-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 12.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "20-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 0.0,
+            "TotalLossAverage": -12.0,
+            "IC_Status": "Active"
+        },
+        {
+            "stock_name": "ioc",
+            "bid_price": 89,
+            "close_price": 100,
+            "win": true,
+            "loss": false,
+            "number_of_indicators": 0,
+            "indicator_name": null,
+            "tradeDuration": "0: 0: 1",
+            "timeofTrade": "13:47:18",
+            "dateOfTrade": "17-07-22",
+            "IC_Status": "Inactive"
+        },
+        {
+            "date": "20-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "stock_name": "0",
+            "bid_price": 12.0,
+            "close_price": 13.0,
+            "win": true,
+            "loss": false,
+            "number_of_indicators": 0,
+            "indicator_name": null,
+            "tradeDuration": "0: 0: 0",
+            "timeofTrade": "15:17:34",
+            "dateOfTrade": "21-10-22",
+            "IC_Status": "Inactive"
+        },
+        {
+            "date": "21-10-22",
+            "totalBidPriceToday": 12.0,
+            "totalValueToday": 13.0,
+            "totalProfitToday": 1.0,
+            "totalLossToday": 0,
+            "totalNumberOfTrades": 1,
+            "IC_Status": "Inactive"
+        },
+        {
+            "date": "21-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Inactive"
+        },
+        {
+            "date": "21-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 0.0,
+            "TotalLossAverage": -12.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-10-22",
+            "TotalBidAverage": 11.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 12.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 0.0,
+            "TotalLossAverage": -12.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "28-10-22",
+            "TotalBidAverage": 89.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -79.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "28-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "28-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "28-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "28-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "28-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 12.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "28-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 0.0,
+            "TotalLossAverage": -12.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "31-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "31-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-11-22",
+            "TotalBidAverage": 38.56,
+            "TotalProfitAverage": 1.4499999999999957,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 40.01,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "14-11-22",
+            "TotalBidAverage": 38.56,
+            "TotalProfitAverage": 1.4499999999999957,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 40.01,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "03-09-22",
+            "TotalBidAverage": 56.0,
+            "TotalProfitAverage": 33.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 89.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "18-08-22",
+            "totalBidPriceToday": 2000.0,
+            "totalValueToday": 3159.0,
+            "totalProfitToday": 1549.0,
+            "totalLossToday": 134.0,
+            "totalNumberOfTrades": 9,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "27-08-22",
+            "totalBidPriceToday": 2242.0,
+            "totalValueToday": 3358.0,
+            "totalProfitToday": 1117.0,
+            "totalLossToday": -1.0,
+            "totalNumberOfTrades": 6,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "03-09-22",
+            "TotalBidAverage": 120.0,
+            "TotalProfitAverage": 2.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 122.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "stock_name": "ioc",
+            "bid_price": 89,
+            "close_price": 100,
+            "win": true,
+            "loss": false,
+            "number_of_indicators": 0,
+            "indicator_name": null,
+            "tradeDuration": "0: 0: 1",
+            "timeofTrade": "13:47:18",
+            "dateOfTrade": "17-07-22",
+            "IC_Status": "Active"
+        },
+        {
+            "stock_name": "0",
+            "bid_price": 12.0,
+            "close_price": 13.0,
+            "win": true,
+            "loss": false,
+            "number_of_indicators": 0,
+            "indicator_name": null,
+            "tradeDuration": "0: 0: 0",
+            "timeofTrade": "15:17:34",
+            "dateOfTrade": "21-10-22",
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-10-22",
+            "totalBidPriceToday": 12.0,
+            "totalValueToday": 13.0,
+            "totalProfitToday": 1.0,
+            "totalLossToday": 0,
+            "totalNumberOfTrades": 1,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "26-01-23",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "26-01-23",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-05-23",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-05-23",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-05-23",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-05-23",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 10.0,
+            "TotalLossAverage": -2.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-05-23",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 14.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 15.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-05-23",
+            "TotalBidAverage": 1.0,
+            "TotalProfitAverage": 14.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 15.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-05-23",
+            "TotalBidAverage": 65.0,
+            "TotalProfitAverage": 7.5,
+            "TotalNumberOfTradeAverage": 1.0,
+            "TotalTradeValuesAverage": 56.0,
+            "TotalLossAverage": -16.5,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-05-23",
+            "TotalBidAverage": 65.0,
+            "TotalProfitAverage": 7.5,
+            "TotalNumberOfTradeAverage": 1.0,
+            "TotalTradeValuesAverage": 56.0,
+            "TotalLossAverage": -16.5,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-05-23",
+            "TotalBidAverage": 45.0,
+            "TotalProfitAverage": 40.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 85.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "06-05-23",
+            "TotalBidAverage": 45.0,
+            "TotalProfitAverage": 40.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 85.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "03-09-22",
+            "TotalBidAverage": 56.0,
+            "TotalProfitAverage": 33.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 89.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "18-08-22",
+            "totalBidPriceToday": 2000.0,
+            "totalValueToday": 3159.0,
+            "totalProfitToday": 1549.0,
+            "totalLossToday": 134.0,
+            "totalNumberOfTrades": 9,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "27-08-22",
+            "totalBidPriceToday": 2242.0,
+            "totalValueToday": 3358.0,
+            "totalProfitToday": 1117.0,
+            "totalLossToday": -1.0,
+            "totalNumberOfTrades": 6,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "03-09-22",
+            "TotalBidAverage": 120.0,
+            "TotalProfitAverage": 2.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 122.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "stock_name": "ioc",
+            "bid_price": 89,
+            "close_price": 100,
+            "win": true,
+            "loss": false,
+            "number_of_indicators": 0,
+            "indicator_name": null,
+            "tradeDuration": "0: 0: 1",
+            "timeofTrade": "13:47:18",
+            "dateOfTrade": "17-07-22",
+            "IC_Status": "Active"
+        },
+        {
+            "stock_name": "0",
+            "bid_price": 12.0,
+            "close_price": 13.0,
+            "win": true,
+            "loss": false,
+            "number_of_indicators": 0,
+            "indicator_name": null,
+            "tradeDuration": "0: 0: 0",
+            "timeofTrade": "15:17:34",
+            "dateOfTrade": "21-10-22",
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-10-22",
+            "totalBidPriceToday": 12.0,
+            "totalValueToday": 13.0,
+            "totalProfitToday": 1.0,
+            "totalLossToday": 0,
+            "totalNumberOfTrades": 1,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "21-10-22",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 1.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 13.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "10-05-23",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 44.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 56.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "10-05-23",
+            "TotalBidAverage": 12.0,
+            "TotalProfitAverage": 44.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 56.0,
+            "TotalLossAverage": 0.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "10-05-23",
+            "TotalBidAverage": 30.5,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 1.0,
+            "TotalTradeValuesAverage": 22.0,
+            "TotalLossAverage": -8.5,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "10-05-23",
+            "TotalBidAverage": 30.5,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 1.0,
+            "TotalTradeValuesAverage": 22.0,
+            "TotalLossAverage": -8.5,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "10-05-23",
+            "TotalBidAverage": 392.0,
+            "TotalProfitAverage": 0.3499999999999848,
+            "TotalNumberOfTradeAverage": 1.5,
+            "TotalTradeValuesAverage": 336.34999999999997,
+            "TotalLossAverage": -56.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "10-05-23",
+            "TotalBidAverage": 392.0,
+            "TotalProfitAverage": 0.3499999999999848,
+            "TotalNumberOfTradeAverage": 1.5,
+            "TotalTradeValuesAverage": 336.34999999999997,
+            "TotalLossAverage": -56.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "10-05-23",
+            "TotalBidAverage": 45.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 12.0,
+            "TotalLossAverage": -33.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "10-05-23",
+            "TotalBidAverage": 45.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 12.0,
+            "TotalLossAverage": -33.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "10-05-23",
+            "TotalBidAverage": 45.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 12.0,
+            "TotalLossAverage": -33.0,
+            "IC_Status": "Active"
+        },
+        {
+            "date": "10-05-23",
+            "TotalBidAverage": 45.0,
+            "TotalProfitAverage": 0.0,
+            "TotalNumberOfTradeAverage": 0.5,
+            "TotalTradeValuesAverage": 12.0,
+            "TotalLossAverage": -33.0,
+            "IC_Status": "Active"
+        }
+    ]
+}
